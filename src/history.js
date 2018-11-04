@@ -1,4 +1,4 @@
-import RopeSequence from "rope-sequence"
+import RopeSequence from "@jimpick/rope-sequence"
 import {Mapping} from "@jimpick/prosemirror-transform"
 import {Plugin, PluginKey} from "@jimpick/prosemirror-state"
 
