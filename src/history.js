@@ -1,6 +1,6 @@
 import RopeSequence from "rope-sequence"
-import {Mapping} from "prosemirror-transform"
-import {Plugin, PluginKey} from "prosemirror-state"
+import {Mapping} from "@jimpick/prosemirror-transform"
+import {Plugin, PluginKey} from "@jimpick/prosemirror-state"
 
 // ProseMirror's history isn't simply a way to roll back to a previous
 // state, because ProseMirror supports applying changes without adding
